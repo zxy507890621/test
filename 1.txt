@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hahaasdasd
 
 s
 dfsdf
+=======
+haha
+
+test2
+>>>>>>> 53f1a942bed91b09bc7b2b5ca40054e33b640c84

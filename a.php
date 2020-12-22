@@ -1,5 +1,5 @@
 <?php
-namespace metest;
+namespace test2;
 
 
 class a{

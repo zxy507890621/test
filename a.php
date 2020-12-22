@@ -1,4 +1,6 @@
 <?php
+namespace metest;
+
 
 class a{
     function test(){

@@ -3,7 +3,7 @@ namespace test2;
 
 
 class a{
-    function test(){
+    function shuchu(){
         return 1;
     }
 }

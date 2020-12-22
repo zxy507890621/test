@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "metest\\test2\\": "src/test2"
+            "metest\\test2\\": "src/"
         }
     }
 }

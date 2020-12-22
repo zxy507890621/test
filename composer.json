@@ -1,0 +1,15 @@
+{
+    "name": "metest/test2",
+    "description": "this is a test",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "zhao",
+            "email": "507890621@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}

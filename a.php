@@ -1,5 +1,7 @@
-<?php 
+<?php
 
-function test(){
-    return 1;
+class a{
+    function test(){
+        return 1;
+    }
 }
